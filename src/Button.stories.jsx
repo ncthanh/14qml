@@ -6,7 +6,7 @@ export default {
  
 export const Primary = {
   render: () => {
-    return <div style={{backgroundColor: 'blue', padding: '10px'}}>
+    return <div style={{backgroundColor: 'pink', padding: '10px'}}>
       <Button />
     </div>
   }
